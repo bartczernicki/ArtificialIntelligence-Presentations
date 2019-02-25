@@ -5,6 +5,7 @@ Public location of delivered Artificial Intelligence Presentations
 ## Actively maintained Presentations
 
 **Microsoft AI Platform Update**
+<br>
 **MicrosoftAIandMLPlatformUpdate.pptx**
 <br>
 Presentation on the latest Microsoft AI Platform features (high level presentation).
