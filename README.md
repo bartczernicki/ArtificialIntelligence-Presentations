@@ -9,4 +9,14 @@ Presentation on ML.NET (Machine Learning .NET) an open source and cross-platform
 ### **Microsoft AI Platform Update - 12/18/2018**
 **MicrosoftAIandMLPlatformUpdate-December2018.pptx**
 <br>
-Updated presentation on the Microsoft AI Platform.
+Presentation on the Microsoft AI Platform.
+
+### **Philadelphia AI Conference - 09/20/2018**
+**PHLAI-PredictingMLBBaseballHallofFameInductionUsingMicrosoftAI.pptx**
+<br>
+Presentation from the Philadelphia AI Conference covering examples around using baseball data.
+
+### **Why R? 2018 Conference Wroclaw, Poland - 07/05/2018**
+**WhyR2018-MicrosoftAI.pptx**
+<br>
+Presentation from the WhyR? Conference covering R language scenarios on the Microsoft AI platform.
