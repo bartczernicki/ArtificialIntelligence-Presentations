@@ -5,3 +5,8 @@ Public location of delivered Artificial Intelligence Presentations
 **MSUSPartnerCommunity-MLDotNet-February2019.pptx**
 <br>
 Presentation on ML.NET (Machine Learning .NET) an open source and cross-platform machine learning framework.  Includes links to GitHub demos and ML.NET resources.
+
+### **Microsoft AI Platform Update - 12/18/2018**
+**MicrosoftAIandMLPlatformUpdate-December2018.pptx**
+<br>
+Updated presentation on the Microsoft AI Platform.
