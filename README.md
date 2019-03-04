@@ -4,6 +4,13 @@ Public location of delivered Artificial Intelligence Presentations
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
+**DevOps for AI**
+<br>
+**DevOPs for AI.pptx**
+<br>
+Description: CI/CD for Models for application developers + data scientists.
+
+
 **Microsoft AI Platform Update**
 <br>
 **MicrosoftAIandMLPlatformUpdate.pptx**
