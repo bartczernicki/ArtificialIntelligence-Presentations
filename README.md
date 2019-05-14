@@ -20,6 +20,12 @@ Description: Presentation on the latest Microsoft AI Platform features (high lev
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**Microsoft Financial Services Summit | AI Executive Technical Briefing - 05/13/2019**
+<br>
+**MicrosoftFinancialServicesSummit-AIExecutiveTechnicalBriefing.pptx**
+<br>
+Description: Presentation from the FSI Summit covering Artificial Intelligence for financial services partner executives.
+
 **MSUS Partner Community Presentation - 02/21/2019**
 <br>
 **MSUSPartnerCommunity-MLDotNet-February2019.pptx**
