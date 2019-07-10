@@ -20,7 +20,7 @@ Description: Presentation on the latest Microsoft AI Platform features (high lev
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
-**Tibco AI Conference - 06/12/2019**
+**Tibco Artificial Intelligence Conference - 06/12/2019**
 <br>
 **AIForAll-HowMicrosoftThinksAboutAI.pptx**
 <br>
