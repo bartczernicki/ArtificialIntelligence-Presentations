@@ -20,6 +20,12 @@ Description: Presentation on the latest Microsoft AI Platform features (high lev
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**Tibco AI Conference - 06/12/2019**
+<br>
+**AIForAll-HowMicrosoftThinksAboutAI.pptx**
+<br>
+Description: Presentation from the Tibco Artificial Intelligence Conference.  How does Microsoft think about AI for all different personas.
+
 **Microsoft Financial Services Summit | AI Executive Technical Briefing - 05/13/2019**
 <br>
 **MicrosoftFinancialServicesSummit-AIExecutiveTechnicalBriefing.pptx**
