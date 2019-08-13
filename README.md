@@ -20,6 +20,12 @@ Description: Presentation on the latest Microsoft AI Platform features (high lev
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**Angelbeat Conference - Philadelphia - 08/13/2019**
+<br>
+**Angelbeat-AIForAll.pptx**
+<br>
+Description: Presentation from the Angelbeat Philadelphia Conference.  Overview of AI for all types of personas.
+
 **Tibco Artificial Intelligence Conference - 06/12/2019**
 <br>
 **AIForAll-HowMicrosoftThinksAboutAI.pptx**
