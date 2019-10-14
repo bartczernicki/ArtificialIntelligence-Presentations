@@ -4,18 +4,23 @@ Public location of delivered Artificial Intelligence Presentations
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
-**DevOps for AI**
+**Artificial Intelligence - Decision Analysis**
 <br>
-**DevOPs for AI.pptx**
+**ArtificialIntelligence-DecisionAnalysis.pptx**
 <br>
-Description: CI/CD for Models for application developers + data scientists.
-
+Description: Applying Machine Intelligence to Decision Theory.  Includes demos of AI assisted Decision Support Systems and Decision Management Systems
 
 **Microsoft AI Platform Update**
 <br>
 **MicrosoftAIandMLPlatformUpdate.pptx**
 <br>
 Description: Presentation on the latest Microsoft AI Platform features (high level presentation).
+
+**DevOps for AI**
+<br>
+**DevOPs for AI.pptx**
+<br>
+Description: CI/CD for Models for application developers + data scientists.
 
 ---
 ## Static Presentations (Content locked down as of delivery date)
