@@ -43,6 +43,12 @@ Description: Presentation from the Tibco Artificial Intelligence Conference.  Ho
 <br>
 Description: Presentation from the FSI Summit covering Artificial Intelligence for financial services partner executives.
 
+**Azure Cognitive Services Strategy - 02/28/2019**
+<br>
+**Azure-CognitiveServices-Strategy.pptx**
+<br>
+Description: Presentation on the Azure Cognitive Services strategy and differentation between competitors including GDPR and Docker containers (AI on the edge).
+
 **MSUS Partner Community Presentation - 02/21/2019**
 <br>
 **MSUSPartnerCommunity-MLDotNet-February2019.pptx**
