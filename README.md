@@ -4,9 +4,9 @@ Public location of delivered Artificial Intelligence Presentations
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
-**Artificial Intelligence - Decision Analysis**
+**Machine Intelligence - Decision Analysis**
 <br>
-**ArtificialIntelligence-DecisionAnalysis.pptx**
+**MachineIntelligence-DecisionAnalysis.pptx**
 <br>
 Description: Applying Machine Intelligence to Decision Theory.  Includes demos of AI assisted Decision Support Systems and Decision Management Systems
 
@@ -24,6 +24,12 @@ Description: CI/CD for Models for application developers + data scientists.
 
 ---
 ## Static Presentations (Content locked down as of delivery date)
+
+**P20 OCP Conference - Chicago - 09/15/2019**
+<br>
+**ArtificialIntelligence-DecisionAnalysis.pptx**
+<br>
+Description: Applying Machine Intelligence to Decision Theory.  Includes demos of AI assisted Decision Support Systems and Decision Management Systems
 
 **Angelbeat Conference - Philadelphia - 08/13/2019**
 <br>
