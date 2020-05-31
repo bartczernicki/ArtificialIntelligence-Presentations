@@ -25,6 +25,13 @@ Description: CI/CD for Models for application developers + data scientists.
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+
+**Virtual ML.NET Conference - Virtual - 05/30/2020**
+<br>
+**VirtualMLNet-DecisionAnalysisWithMLNet.pptx**
+<br>
+Description: Applying Machine Intelligence to Decision Theory using ML.NET Decision Analysis and the Blazor Application Framework
+
 **P20 OCP Conference - Chicago - 09/15/2019**
 <br>
 **ArtificialIntelligence-DecisionAnalysis.pptx**
