@@ -44,13 +44,13 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 <br>
 Description: Presentation from the Angelbeat Philadelphia Conference.  Overview of AI for all types of personas.
 
-**Tibco Artificial Intelligence Conference - 06/12/2019**
+**Tibco Artificial Intelligence Conference - Chicago - 06/12/2019**
 <br>
 **AIForAll-HowMicrosoftThinksAboutAI.pptx**
 <br>
 Description: Presentation from the Tibco Artificial Intelligence Conference.  How does Microsoft think about AI for all different personas.
 
-**Microsoft Financial Services Summit | AI Executive Technical Briefing - 05/13/2019**
+**Microsoft Financial Services Summit | AI Executive Technical Briefing - New York - 05/13/2019**
 <br>
 **MicrosoftFinancialServicesSummit-AIExecutiveTechnicalBriefing.pptx**
 <br>
