@@ -25,6 +25,11 @@ Description: CI/CD for Models for application developers + data scientists.
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**.NET Community Standup - .NET 5 Blazor WASM & ML.NET - 09/23/2020**
+<br>
+**DotNetCommunityStandup-MLNetBlazorDotNet5.pptx**
+<br>
+Description: Use .NET 5 and Blazor WebAssembly to deliver Machine Intelligence with ML.NET
 
 **Virtual ML.NET Conference - Virtual - 05/30/2020**
 <br>
