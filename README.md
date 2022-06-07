@@ -25,6 +25,12 @@ Description: CI/CD for Models for application developers + data scientists.
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**NIC 2022 Conference - How-To Make effective Decisions using Machine Intelligence - 06/01/2022**
+<br>
+**NIC 2022 - How-To Make effective Decisions using Machine Intelligence.pptx**
+<br>
+Description: Understand how-to make more measurably better decisions with Machine Intelligence
+
 **Development Community Call - Adding Machine Intelligence to Blazor Apps - 11/19/2020**
 <br>
 **AddingMachineIntelligenceToYourBlazorApps.pptx**
