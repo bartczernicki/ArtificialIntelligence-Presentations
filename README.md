@@ -10,18 +10,6 @@ Public location of delivered Artificial Intelligence Presentations
 <br>
 Description: Applying Machine Intelligence to Decision Theory.  Includes demos of AI assisted Decision Support Systems and Decision Management Systems
 
-**Microsoft AI Platform Update**
-<br>
-**MicrosoftAIandMLPlatformUpdate.pptx**
-<br>
-Description: Presentation on the latest Microsoft AI Platform features (high level presentation).
-
-**DevOps for AI**
-<br>
-**DevOPs for AI.pptx**
-<br>
-Description: CI/CD for Models for application developers + data scientists.
-
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
@@ -102,3 +90,18 @@ Description: Presentation from the Philadelphia AI Conference covering examples 
 **WhyR2018-MicrosoftAI.pptx**
 <br>
 Description: Presentation from the WhyR? Conference covering R language scenarios on the Microsoft AI platform.
+
+---
+## Static Presentations (Content locked down as of delivery date)
+
+**Microsoft AI Platform Update**
+<br>
+**MicrosoftAIandMLPlatformUpdate.pptx**
+<br>
+Description: Presentation on the latest Microsoft AI Platform features (high level presentation).
+
+**DevOps for AI**
+<br>
+**DevOPs for AI.pptx**
+<br>
+Description: CI/CD for Models for application developers + data scientists.
