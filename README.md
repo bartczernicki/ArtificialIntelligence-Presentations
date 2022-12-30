@@ -19,7 +19,7 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 <br>
 Description: Understand how-to make more measurably better decisions with Machine Intelligence
 
-**Development Community Call - Adding Machine Intelligence to Blazor Apps - 11/19/2020**
+** Microsoft Development Community Call - Adding Machine Intelligence to Blazor Apps - 11/19/2020**
 <br>
 **AddingMachineIntelligenceToYourBlazorApps.pptx**
 <br>
