@@ -92,7 +92,7 @@ Description: Presentation from the Philadelphia AI Conference covering examples 
 Description: Presentation from the WhyR? Conference covering R language scenarios on the Microsoft AI platform.
 
 ---
-## Static Presentations (Content locked down as of delivery date)
+## Other/Old Presentations
 
 **Microsoft AI Platform Update**
 <br>
