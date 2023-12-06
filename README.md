@@ -13,6 +13,12 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**AI Legal Day (Chicago) - Microsoft Generative AI Optimizing Opportunity for Legal - 12/06/2023**
+<br>
+**Microsoft Generative AI Optimizing Opportunity for Legal.pptx**
+<br>
+Description: How can law firms optimize the opportunity of Generative AI
+
 **NIC 2022 Conference - How-To Make effective Decisions using Machine Intelligence - 06/01/2022**
 <br>
 **NIC 2022 - How-To Make effective Decisions using Machine Intelligence.pptx**
