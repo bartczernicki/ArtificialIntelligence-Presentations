@@ -1,5 +1,5 @@
 # Artificial Intelligence & Machine Learning Presentations
-Public location of delivered Artificial Intelligence Presentations
+Public location of maintained, delivered & archived Artificial Intelligence Presentations
 
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
