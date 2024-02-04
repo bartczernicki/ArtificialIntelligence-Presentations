@@ -4,6 +4,10 @@ Public location of delivered Artificial Intelligence Presentations
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
+**Optimizing Gen AI Strategy Opportunity and Risk**  
+**Optimizing Gen AI Strategy Opportunity and Risk.pptx**  
+Description: Is Gen AI the next internet, cell phone or cloud revolution? Understand both the opportunity and risk of global digital transformation for your industry.  
+
 **Machine Intelligence - Decision Analysis**
 <br>
 **MachineIntelligence-DecisionAnalysis.pptx**
