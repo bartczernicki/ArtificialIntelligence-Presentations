@@ -5,7 +5,7 @@ Public location of maintained, delivered & archived Artificial Intelligence Pres
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
 **Scaling Generative AI Applications**  
-**Scaling Generative AI Applications.pptx**  
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/tree/master/GenAI/ScalingGenerativeAI  
 Description: Understand the key imperatives to scale Generative AI applications across: Accuracy, Latency & Cost optimizations.
 
 **Optimizing Gen AI Strategy Opportunity and Risk**  
