@@ -21,6 +21,12 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**Gobal Data Symposium - 10/09/2024**
+<br>
+**What is New With Azure AI & Future Roadmap.pptx**
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/tree/master/GenAI/WhatisTheLatestFutureRoadmap  
+Description: Overview of what is new with Azure AI and Public Future Roadmap (How to find the latest)
+
 **AI Legal Day (Chicago) - Microsoft Generative AI Optimizing Opportunity for Legal - 12/06/2023**
 <br>
 **Microsoft Generative AI Optimizing Opportunity for Legal.pptx**
