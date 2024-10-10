@@ -23,7 +23,7 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 
 **Gobal Data Symposium - 10/09/2024**
 <br>
-**What is New With Azure AI & Future Roadmap.pptx**
+**What is New With Azure AI & Future Roadmap.pptx**  
 https://github.com/bartczernicki/ArtificialIntelligence-Presentations/tree/master/GenAI/WhatisTheLatestFutureRoadmap  
 Description: Overview of what is new with Azure AI and Public Future Roadmap (How to find the latest)
 
