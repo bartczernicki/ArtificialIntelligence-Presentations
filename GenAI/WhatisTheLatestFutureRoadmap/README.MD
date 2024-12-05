@@ -4,4 +4,4 @@ Presentation covers what is the latest with Azure AI, where to find the latest i
 
 Note: Download the Powerpoint deck file directly from GitHub using the download link. 
 
-![One Pager](https://raw.githubusercontent.com/bartczernicki/ArtificialIntelligence-Presentations/refs/heads/master/GenAI/WhatisTheLatestFutureRoadmap/PresentationCover.png)
+![One Pager](https://raw.githubusercontent.com/bartczernicki/ArtificialIntelligence-Presentations/refs/heads/master/GenAI/WhatisTheLatestFutureRoadmap/WhatIsNew-December2024.png)
