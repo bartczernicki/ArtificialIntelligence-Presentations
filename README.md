@@ -21,6 +21,12 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**Inside Practice - AI x KM Conference 04/29/2025**
+<br>
+**AI x KM __ NEW YORK __ APRIL 29 - Microsoft Generative AI Vision.pptx**  
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/tree/master/Presentations  
+Description: Microsoft Generative AI Vision for the legal domain focusing on reasoning and agentic transformation  
+
 **Gobal Data Symposium - 10/09/2024**
 <br>
 **What is New With Azure AI & Future Roadmap.pptx**  
