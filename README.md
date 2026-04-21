@@ -21,7 +21,7 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
-**eMerge Americas Quantum & AI Conference: Decision Intelligence under Uncertainty with Generative AI 04/22/2026**  
+**eMerge Americas Quantum & AI Conference: Decision Intelligence under Uncertainty with Generative AI 04/22/2026**
 <br>
 **eMergeAmericas2026-AI-DecisionIntelligenceWithGenerativeAI.pptx**  
 https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/Presentations  
