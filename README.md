@@ -21,6 +21,12 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 ---
 ## Static Presentations (Content locked down as of delivery date)
 
+**LLM Day NYC: Decision Intelligence under Uncertainty with Generative AI 06/04/2026**
+<br>
+**eMergeAmericas2026-AI-DecisionIntelligenceWithGenerativeAI.pptx**  
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/Presentations  
+Description: Decision Intelligence under Uncertainty with Generative AI
+
 **eMerge Americas Quantum & AI Conference: Decision Intelligence under Uncertainty with Generative AI 04/22/2026**
 <br>
 **eMergeAmericas2026-AI-DecisionIntelligenceWithGenerativeAI.pptx**  
