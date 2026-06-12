@@ -24,8 +24,8 @@ Description: Applying Machine Intelligence to Decision Theory.  Includes demos o
 **LLM Day NYC: Decision Intelligence under Uncertainty with Generative AI 06/04/2026**
 <br>
 **eMergeAmericas2026-AI-DecisionIntelligenceWithGenerativeAI.pptx**  
-https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/Presentations  
-Description: Decision Intelligence under Uncertainty with Generative AI
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/Presentations/LLMday2026NYC-DecisionIntelligenceWithGenerativeAI.pptx  
+Description: Decision making is one of the most sought after skills by executives. With the advent of Generative AI, decision making can be optimized to unlock the full potential of human judgement. This hands-on lab introduces the theory of Decision Intelligence with Generative AI (frame decisions, surface assumptions, evaluate decision quality under uncertainty), then applies GenAI as a structured reasoning process. You will practice many advanced Decision Intelligence GenAI techniques. 
 
 **eMerge Americas Quantum & AI Conference: Decision Intelligence under Uncertainty with Generative AI 04/22/2026**
 <br>
