@@ -4,6 +4,10 @@ Public location of maintained, delivered & archived Artificial Intelligence Pres
 ---
 ## Actively Maintained Presentations (Periodicially updated, check version history details)
 
+**Microsoft - Decision Intelligence with AIs**  
+https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/Presentations/Microsoft%20-%20Decision%20Intelligence%20with%20AI.pptx  
+Description: Overview of System One & Two Decision-Making and applying this with AI decision models or reasoning models. 
+
 **Scaling Generative AI Applications**  
 https://github.com/bartczernicki/ArtificialIntelligence-Presentations/tree/master/GenAI/ScalingGenerativeAI  
 Description: Understand the key imperatives to scale Generative AI applications across: Accuracy, Latency & Cost optimizations.
